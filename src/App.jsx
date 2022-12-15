@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="Appsdf">
       <div>asd
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="httpsads://vitejs.dev" target="_blank">
           <img src="/vite.svg" className="logo" alt="Vite logo" />
         </a>
         <a href="https://reactjs.org" target="_blank">
